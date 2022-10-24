@@ -1,4 +1,4 @@
-# 👋 Hello, I’m [Abdullah Riaz](https://www.abdullahriaz.com)
+# 👋 Hello, I’m [Abdullah Riaz](https://www.cutlope.dev/)
 
  <img align="right" width="20%" src="/img/sitting.svg">
  
